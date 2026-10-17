@@ -1,6 +1,6 @@
 # Marketplace Ops Toolkit
 
-**Case studies:** [rizabalci.github.io/apps-script-marketplace-ops](https://rizabalci.github.io/apps-script-marketplace-ops/)
+**Case studies:** [rizabalci.github.io/case-studies](https://rizabalci.github.io/case-studies/)
 
 Google Apps Script and Looker Studio templates for running seller-fulfilled marketplace operations (Amazon SFP, bol, Otto, ManoMano) across several 3PL warehouses. Built and run in production, then cleaned into templates: no company names, IDs or business data.
 
